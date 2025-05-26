@@ -1,19 +1,23 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>โปรโมชั่นใหม่!</title>
+<head>
+  <meta charset="UTF-8" />
+  <title>โปรโมชั่นใหม่!</title>
 
-    <!-- Twitter Card meta -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="โปรใหม่สุดคุ้ม!">
-    <meta name="twitter:description" content="แอดไลน์เลยเพื่อรับโบนัสล่าสุด!">
-    <meta name="twitter:image" content="https://mathee01.github.io/chaiyo777/promo3.png">
-    <meta property="og:url" content="https://mathee01.github.io/chaiyo777/promo3.html">
+  <!-- Twitter Card meta -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="โปรใหม่สุดคุ้ม!">
+  <meta name="twitter:description" content="แอดไลน์เลยเพื่อรับโบนัสล่าสุด!">
+  <meta name="twitter:image" content="https://mathee01.github.io/chaiyo777/promo3.png">
+  <meta property="og:url" content="https://mathee01.github.io/chaiyo777/promo3.html">
 
-    <!-- Redirect -->
-    <meta http-equiv="refresh" content="0; URL=https://heylink.me/chaiyo777/" />
-  </head>
-  <body>
-  </body>
+  <!-- JavaScript Redirect (3 วินาที) -->
+  <script>
+    setTimeout(function() {
+      window.location.href = "https://heylink.me/chaiyo777/";
+    }, 3000);
+  </script>
+</head>
+<body>
+</body>
 </html>
