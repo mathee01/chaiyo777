@@ -2,14 +2,27 @@
 <html lang="th">
 <head>
   <meta charset="UTF-8">
-  <title>โปรพิเศษ!</title>
+  <title>โปรเด็ดต้องดู!</title>
+
+  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="โปรพิเศษ!">
-  <meta name="twitter:description" content="แอดไลน์เลยเพื่อรับโบนัสล่าสุด!">
+  <meta name="twitter:title" content="แจกโบนัสพิเศษ">
+  <meta name="twitter:description" content="คลิกดูโปรโมชั่นเด็ดที่คุณห้ามพลาด!">
   <meta name="twitter:image" content="https://mathee01.github.io/chaiyo777/promo3.png">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="แจกโบนัสพิเศษ">
+  <meta property="og:description" content="คลิกดูโปรโมชั่นเด็ดที่คุณห้ามพลาด!">
+  <meta property="og:image" content="https://mathee01.github.io/chaiyo777/promo3.png">
   <meta property="og:url" content="https://mathee01.github.io/chaiyo777/promo-card.html">
 </head>
 <body>
-  <h1>โปรนี้มีอะไรบ้าง?</h1>
+  <h1>กำลังโหลด...</h1>
+  <script>
+    setTimeout(function () {
+      window.location.href = "https://heylink.me/chaiyo777/";
+    }, 5000); // รอ 5 วิ เพื่อให้ bot อ่าน meta tag ก่อน
+  </script>
 </body>
 </html>
