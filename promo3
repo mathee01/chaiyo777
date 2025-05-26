@@ -1,30 +1,20 @@
 <!DOCTYPE html>
-<html lang="th">
+<html>
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>โปรโมชั่นใหม่!</title>
 
-  <!-- Twitter Card -->
+  <!-- Twitter Card meta -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="โปรใหม่สุดคุ้ม!">
   <meta name="twitter:description" content="แอดไลน์เลยเพื่อรับโบนัสล่าสุด!">
   <meta name="twitter:image" content="https://mathee01.github.io/chaiyo777/promo3.png">
-
-  <!-- Open Graph -->
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="โปรใหม่สุดคุ้ม!">
-  <meta property="og:description" content="แอดไลน์เลยเพื่อรับโบนัสล่าสุด!">
-  <meta property="og:image" content="https://mathee01.github.io/chaiyo777/promo3.png">
   <meta property="og:url" content="https://mathee01.github.io/chaiyo777/promo3.html">
+
+  <!-- Optional: redirect fallback -->
+  <meta http-equiv="refresh" content="5;url=https://heylink.me/chaiyo777/">
 </head>
 <body>
-
-<!-- JavaScript Redirect -->
-<script>
-  setTimeout(function () {
-    window.location.href = "https://heylink.me/chaiyo777/";
-  }, 3000);
-</script>
-
+  <p>กำลังเปลี่ยนเส้นทาง...<a href="https://heylink.me/chaiyo777/">คลิกที่นี่</a>หากไม่ได้เปลี่ยนหน้า</p>
 </body>
 </html>
